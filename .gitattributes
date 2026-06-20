@@ -1,0 +1,2 @@
+# Chuẩn hóa: lưu LF trong repo, tự convert theo OS khi checkout
+* text=auto eol=lf
