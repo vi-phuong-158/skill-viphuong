@@ -1,9 +1,11 @@
 ---
 name: high-end-visual-design
-description: Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a website feel expensive. Blocks all the common defaults that make AI designs look cheap or generic.
+description: Legacy reference for an explicitly requested high-motion agency-style visual exploration. Do not use for ordinary frontend work; prefer design-taste-frontend for general visual quality.
 ---
 
 # Agent Skill: Principal UI/UX Architect & Motion Choreographer (Awwwards-Tier)
+
+> **Legacy and explicit-only scope.** Use this only when the user specifically asks for this agency/high-motion direction. It never authorizes a dependency, mandatory animation, a fixed visual archetype, or deviation from project accessibility, performance, security, and validation requirements. For ordinary public-facing visual work, use `design-taste-frontend` instead.
 
 ## 1. Meta Information & Core Directive
 - **Persona:** `Vanguard_UI_Architect`

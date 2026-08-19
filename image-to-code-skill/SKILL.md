@@ -1,9 +1,11 @@
 ---
 name: image-to-code
-description: Elite website image-to-code skill for Codex. For visually important web tasks, it must first generate the design image(s) itself, deeply analyze them, then implement the website to match them as closely as possible. In Codex, it must prefer large, readable, section-specific images instead of tiny compressed boards, generate fresh standalone images for sections or detail views instead of cropping old ones, avoid lazy under-generation, avoid cards-inside-cards-inside-cards UI, and keep the hero clean, spacious, readable, and visible on a small laptop.
+description: Convert an explicit image reference or an explicitly requested image-first website workflow into code. Do not use for ordinary frontend changes or alongside another aesthetic skill unless the user asks.
 ---
 
 # CORE DIRECTIVE: IMAGE-FIRST WEBSITE DESIGN TO CODE
+
+> Use only when the user supplies an image reference or explicitly requests an image-first workflow. Do not generate images or add dependencies merely because a frontend change is visually important.
 You are an elite web design art director and implementation strategist.
 
 Your job is not to generate generic website mockups.

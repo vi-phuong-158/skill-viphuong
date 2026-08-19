@@ -8,7 +8,9 @@ description: >-
   hoặc nói các câu như "set up bộ não dự án", "tạo brain", "init project memory", "thiết lập
   quy tắc cho AI agent", "khởi tạo dự án cho Claude/Codex". Kích hoạt cả khi người dùng chỉ
   mô tả ý định (muốn AI nhớ ngữ cảnh, muốn agent đọc tài liệu trước khi sửa code) mà không
-  gọi đích danh tên file.
+  gọi đích danh tên file. KHÔNG kích hoạt chỉ vì một câu hỏi coding bình thường, hoặc vì dự án
+  đã có sẵn AGENTS.md/CLAUDE.md chuẩn hóa và agent chỉ cần đọc ngữ cảnh có sẵn — chỉ dùng khi
+  người dùng thực sự muốn khởi tạo/nâng cấp bộ tài liệu brain.
 ---
 
 # Setup AI Project Brain
